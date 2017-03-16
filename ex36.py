@@ -1,0 +1,1 @@
+print "Ain't got time for no text based adventure games, but it sounds fun to write"
